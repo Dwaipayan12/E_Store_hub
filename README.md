@@ -28,7 +28,7 @@
 
 ## 📷 Screenshots
 
-### 🧑‍💼 Customer Login Dashboard
+### 🧑‍💼 Seller Login Dashboard
 
 ![Seller Dashboard](https://github.com/Dwaipayan12/E_Store_hub/blob/main/seller.jpg?raw=true)
 

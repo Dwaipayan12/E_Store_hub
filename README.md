@@ -34,8 +34,8 @@
 ### 📦 Product Page
 ![Product Page](https://github.com/Dwaipayan12/E_Store_Hub/blob/main/assets/product-page.png?raw=true)
 
-### 🔐 Login Page
-![Login Page](https://github.com/Dwaipayan12/E_Store_Hub/blob/main/assets/login.png?raw=true)
+### 🔐 Customer Login Page
+![Login Page](https://github.com/Dwaipayan12/E_Store_Hub/blob/main/assets/seller.jpg?raw=true)
 
 *(Replace these links with your actual image paths)*
 

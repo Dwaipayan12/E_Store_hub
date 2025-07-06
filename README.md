@@ -30,11 +30,11 @@
 
 ### 🧑‍💼 Customer Login Dashboard
 
-![Customer Login Dashboard](https://github.com/Dwaipayan12/E_Store_hub/blob/main/seller.jpg?raw=true)
+![Seller Dashboard](https://github.com/Dwaipayan12/E_Store_hub/blob/main/seller.jpg?raw=true)
 
-### 🙋‍♂️  Seller Dashboard
+### 🙋‍♂️  Customer Login Dashboard
 
-![Seller Dashboard](https://github.com/Dwaipayan12/E_Store_hub/blob/main/Screenshot%202025-07-07%20011906.jpg?raw=true)
+![Customer Login Dashboard](https://github.com/Dwaipayan12/E_Store_hub/blob/main/Screenshot%202025-07-07%20011906.jpg?raw=true)
 
 
 ---

@@ -28,17 +28,14 @@
 
 ## 📷 Screenshots
 
-### 🏠 Home Page
-![Home Page](https://github.com/Dwaipayan12/E_Store_Hub/blob/main/assets/home-page.png?raw=true)
+### 🧑‍💼 Customer Login Dashboard
 
-### 📦 Product Page
-![Product Page](https://github.com/Dwaipayan12/E_Store_Hub/blob/main/assets/product-page.png?raw=true)
+![Customer Login Dashboard](https://github.com/Dwaipayan12/E_Store_hub/blob/main/seller.jpg?raw=true)
 
-### 🔐 Customer Login Page
-![Seller Login Dashboard](https://github.com/Dwaipayan12/E_Store_hub/blob/main/seller.jpg?raw=true)
+### 🙋‍♂️  Seller Dashboard
 
+![Seller Dashboard](https://github.com/Dwaipayan12/E_Store_hub/blob/main/Screenshot%202025-07-07%20011906.jpg?raw=true)
 
-*(Replace these links with your actual image paths)*
 
 ---
 
